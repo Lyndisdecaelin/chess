@@ -2,13 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "ceci est un test",
+      "title": "element pour montrer http request",
       "val" : "r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R"
     },
     {
       "id":2,
-      "title" : "r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R",
+      "title" : "ces boutons ne fonctionnent pas",
       "val": "JESUISUNCODE"
+    },
+    {
+      "id" : 3,
+      "title" : "ceux ne sont que des exemeples",
+      "val" : "zero" 
     }
   ],
   "profile": {
